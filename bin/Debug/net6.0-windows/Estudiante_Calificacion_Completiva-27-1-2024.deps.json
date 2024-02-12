@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Estudiante_Calificacion_Completiva-27-1-2024/1.0.0": {
+        "runtime": {
+          "Estudiante_Calificacion_Completiva-27-1-2024.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Estudiante_Calificacion_Completiva-27-1-2024/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

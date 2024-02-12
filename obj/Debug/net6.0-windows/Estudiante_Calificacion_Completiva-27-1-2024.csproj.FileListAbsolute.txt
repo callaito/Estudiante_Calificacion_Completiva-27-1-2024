@@ -1,0 +1,16 @@
+C:\Users\ELMZ\Desktop\C# ippfm\Estudiante_Calificacion_Completiva-27-1-2024\bin\Debug\net6.0-windows\Estudiante_Calificacion_Completiva-27-1-2024.exe
+C:\Users\ELMZ\Desktop\C# ippfm\Estudiante_Calificacion_Completiva-27-1-2024\bin\Debug\net6.0-windows\Estudiante_Calificacion_Completiva-27-1-2024.deps.json
+C:\Users\ELMZ\Desktop\C# ippfm\Estudiante_Calificacion_Completiva-27-1-2024\bin\Debug\net6.0-windows\Estudiante_Calificacion_Completiva-27-1-2024.runtimeconfig.json
+C:\Users\ELMZ\Desktop\C# ippfm\Estudiante_Calificacion_Completiva-27-1-2024\bin\Debug\net6.0-windows\Estudiante_Calificacion_Completiva-27-1-2024.dll
+C:\Users\ELMZ\Desktop\C# ippfm\Estudiante_Calificacion_Completiva-27-1-2024\bin\Debug\net6.0-windows\Estudiante_Calificacion_Completiva-27-1-2024.pdb
+C:\Users\ELMZ\Desktop\C# ippfm\Estudiante_Calificacion_Completiva-27-1-2024\obj\Debug\net6.0-windows\Estudiante_Calificacion_Completiva_27_1_2024.Form1.resources
+C:\Users\ELMZ\Desktop\C# ippfm\Estudiante_Calificacion_Completiva-27-1-2024\obj\Debug\net6.0-windows\Estudiante_Calificacion_Completiva-27-1-2024.csproj.GenerateResource.cache
+C:\Users\ELMZ\Desktop\C# ippfm\Estudiante_Calificacion_Completiva-27-1-2024\obj\Debug\net6.0-windows\Estudiante_Calificacion_Completiva-27-1-2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELMZ\Desktop\C# ippfm\Estudiante_Calificacion_Completiva-27-1-2024\obj\Debug\net6.0-windows\Estudiante_Calificacion_Completiva-27-1-2024.AssemblyInfoInputs.cache
+C:\Users\ELMZ\Desktop\C# ippfm\Estudiante_Calificacion_Completiva-27-1-2024\obj\Debug\net6.0-windows\Estudiante_Calificacion_Completiva-27-1-2024.AssemblyInfo.cs
+C:\Users\ELMZ\Desktop\C# ippfm\Estudiante_Calificacion_Completiva-27-1-2024\obj\Debug\net6.0-windows\Estudiante_Calificacion_Completiva-27-1-2024.csproj.CoreCompileInputs.cache
+C:\Users\ELMZ\Desktop\C# ippfm\Estudiante_Calificacion_Completiva-27-1-2024\obj\Debug\net6.0-windows\Estudiante_Calificacion_Completiva-27-1-2024.dll
+C:\Users\ELMZ\Desktop\C# ippfm\Estudiante_Calificacion_Completiva-27-1-2024\obj\Debug\net6.0-windows\refint\Estudiante_Calificacion_Completiva-27-1-2024.dll
+C:\Users\ELMZ\Desktop\C# ippfm\Estudiante_Calificacion_Completiva-27-1-2024\obj\Debug\net6.0-windows\Estudiante_Calificacion_Completiva-27-1-2024.pdb
+C:\Users\ELMZ\Desktop\C# ippfm\Estudiante_Calificacion_Completiva-27-1-2024\obj\Debug\net6.0-windows\Estudiante_Calificacion_Completiva-27-1-2024.genruntimeconfig.cache
+C:\Users\ELMZ\Desktop\C# ippfm\Estudiante_Calificacion_Completiva-27-1-2024\obj\Debug\net6.0-windows\ref\Estudiante_Calificacion_Completiva-27-1-2024.dll
